@@ -1,0 +1,41 @@
+{
+  "todoList": [
+    {
+      "id": "c6f7",
+      "grocery": "tomato"
+    },
+    {
+      "id": "1462",
+      "grocery": "onion"
+    },
+    {
+      "id": "d9b1",
+      "grocery": "groundnut oil"
+    },
+    {
+      "id": "ef1d",
+      "grocery": "fennel powder"
+    },
+    {
+      "id": "1563",
+      "grocery": "Black cumin"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
