@@ -3,7 +3,7 @@
     "builds": [
       {
     
-        "src": "index.js",
+        "src": "db.json",
        
         "use": "@now/node"
       }
